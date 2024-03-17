@@ -1,0 +1,2 @@
+# gasai
+RNG máximo
